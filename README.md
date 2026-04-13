@@ -32,12 +32,7 @@ Modern AI applications require more than simple text generation:
 
 LangChain provides a modular solution for all these needs.
 
----
 
-## Core Components
-
-### 1. LLMs and Chat Models
-
-Responsible for generating responses.
+https://medium.com/@narsingthorat/building-llm-applications-with-langchain-from-concepts-to-real-world-systems-85c4e2231116
 
 
